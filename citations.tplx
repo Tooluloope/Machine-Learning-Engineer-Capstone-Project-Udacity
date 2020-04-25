@@ -1,0 +1,15 @@
+
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Giuseppe Romagnuolo}
+((* endblock author *))
+
+((* block title *))
+\title{Unintended Bias in toxicity classification}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{plain}
+\bibliography{ref}
+((* endblock bibliography *))
