@@ -27,7 +27,9 @@ Project-Report.pdf
 
 ### Acquiring the data
 
-Download the data from https://www.kaggle.com/c/12500/download-all, unzip and place it in  ```/input``` folder.
+Download the data from https://www.kaggle.com/c/12500/download-all, unzip 
+Although, you might need to skip some cells in my iPython Notebook. I save my embeddings as pickel to enable me utilize my ram efficiently.
+Also, Instead of always downloading my dataset, I save the in my drive with can be easily mounted in my working environment.
 
 ### Python package requirements
 
